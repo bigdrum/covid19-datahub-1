@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{NcSy:function(n,e,t){"use strict";t.r(e);var c=t("q1tI"),o=t.n(c);e.default=function(){return o.a.createElement("div",null,"Hello")}}}]);
+//# sourceMappingURL=component---src-pages-update-index-js-ee11c7b9b6090b99fdb8.js.map

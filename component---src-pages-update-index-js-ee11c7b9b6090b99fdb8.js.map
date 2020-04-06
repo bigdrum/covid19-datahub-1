@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/update/index.js"],"names":["Page"],"mappings":"2FAAA,gCAMeA,UAJF,WACX,OAAO","file":"component---src-pages-update-index-js-ee11c7b9b6090b99fdb8.js","sourcesContent":["import React from \"react\";\n\nconst Page = () => {\n  return <div>Hello</div>;\n};\n\nexport default Page;\n"],"sourceRoot":""}
